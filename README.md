@@ -1,6 +1,6 @@
 ### Hi there 👋, Riadh Mouamnia
-#### I am GitHub Readme Generator's creator
-![Front-End Developer & UI/UX](https://pbs.twimg.com/profile_banners/720738122/1659105147/1500x500)
+#### Front-End Developer & UI/UX
+![Banner](https://pbs.twimg.com/profile_banners/720738122/1659105147/1500x500)
 
 Master Degree recipient as an Embedded Systems of Electronics Engineer, Self-educating as Front-End Dev, with UI/UX Design skills & an eye for details, a soul of thirst to learn new technologies
 
