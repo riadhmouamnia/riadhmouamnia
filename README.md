@@ -4,7 +4,7 @@
 
 Master Degree recipient as an Embedded Systems of Electronics Engineer, Self-educating as Front-End Dev, with UI/UX Design skills & an eye for details, a soul of thirst to learn new technologies
 
-Skills: REACT / JS / Angular 1 / HTML / CSS / UI/UX Design
+Skills: REACT.JS / NEXT.JS / JS ES6 / HTML / CSS / UI/UX Design
 
 - 🌱 I’m currently learning more about web development and UI design 
 - 📫 How to reach me: riadh.mouamnia@gmail.com 
